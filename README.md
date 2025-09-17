@@ -1,4 +1,4 @@
-521196S Modern Topics in Telecommunications and Radio Engineering 6 - Using C with MATLAB, 5 ECTS
+521196S Modern Topics in Telecommunications and Radio Engineering 6 - Using C with MATLAB, 5 ECTS, University of Oulu, Oulu, Finland
 
 Learning outcomes
 After completing the course, the student is able to: • Knows fundamentals of C programming language • Knows how to call C function from MATLAB as a part of larger programs • Knows complex data types and multithreaded programming • Knows most important functions of C standard library • Can use automatic C code generation tool (MATLAB coder) • Can avoid common pitfalls in C programming
